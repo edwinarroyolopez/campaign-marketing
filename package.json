@@ -1,0 +1,26 @@
+{
+  "name": "campaign-marketing",
+  "version": "1.0.0",
+  "description": "Objetivo -----     Herramienta que nos permita enviar templates de email con informacion personalizada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinarroyolopez/campaign-marketing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinarroyolopez/campaign-marketing/issues"
+  },
+  "homepage": "https://github.com/edwinarroyolopez/campaign-marketing#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
