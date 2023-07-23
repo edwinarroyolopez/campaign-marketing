@@ -25,3 +25,8 @@ Objetivo
 # api
     SENDGRID_API_KEY=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
 SENDGRID_FROM_EMAIL=amigosecreto@grupoboticario.com.co
+
+
+# stack 
+    - nodejs
+    - git
